@@ -15,3 +15,6 @@
 /AzureHud.FnApi/local.settings.json
 /AzureHud.Core/bin/Debug/netcoreapp3.1
 /AzureHud.FnApi/Properties/serviceDependencies.local.json.user
+/AzureHud.FnApi/bin/Debug/net6.0
+/AzureHud.Core/bin/Debug/net6.0
+/AzureHud.Web/bin/Debug/net6.0
