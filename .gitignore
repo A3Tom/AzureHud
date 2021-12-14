@@ -1,0 +1,17 @@
+﻿################################################################################
+# This .gitignore file was automatically created by Microsoft(R) Visual Studio.
+################################################################################
+
+/.vs/AzureHud
+/AzureHud.Core/obj
+/AzureHud.Web/bin/Debug/net5.0
+/AzureHud.Web/obj
+/AzureHud.Web/Properties/serviceDependencies.local.json.user
+/AzureHud.Web/Properties/serviceDependencies.local.json
+/AzureHud.FnApi/Properties/serviceDependencies.local.json
+/AzureHud.Web/appsettings.Development.json
+/AzureHud.FnApi/obj
+/AzureHud.FnApi/bin/Debug/netcoreapp3.1
+/AzureHud.FnApi/local.settings.json
+/AzureHud.Core/bin/Debug/netcoreapp3.1
+/AzureHud.FnApi/Properties/serviceDependencies.local.json.user
